@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.1.0
+Summary: A small example package
+Home-page: https://github.com/Ganesh-721/KidneyDiseasePrediction
+Author: Ganesh-721
+Author-email: saiganeshpaindla99@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ganesh-721/KidneyDiseasePrediction/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary

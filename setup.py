@@ -17,7 +17,7 @@ setuptools.setup(
     author_email=author_email,
     description="A small example package",
     long_description=long_description,
-   _description_content_type="text/markdown",
+    long_description_content_type="text/markdown",
     url=f"https://github.com/{author_name}/{repo_name}",
     project_urls={
         "Bug Tracker": f"https://github.com/{author_name}/{repo_name}/issues",
